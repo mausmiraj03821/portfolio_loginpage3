@@ -1,0 +1,162 @@
+.w100 {
+    width: 100%;
+}
+
+.h100 {
+    height: 100vh;
+}
+
+.h350 {
+    height: 350px;
+}
+
+.bg1 {
+    background-color: #9e9e9e59;
+}
+
+.fsize5 {
+    font-size: 12px;
+}
+
+.fsize15 {
+    font-size: 13px;
+}
+
+.dnone {
+    display: none;
+}
+
+.backnone {
+    border: none;
+    background: none;
+}
+
+.backimg {
+    width: 300px;
+    height: 350px;
+    background-image: url('img/Download-hd-nature-wallpaper.jpg');
+    background-size: cover;
+}
+
+.fcwhite {
+    color: white;
+}
+
+.login {
+    margin-left: 20px;
+}
+
+.loginpage1 {
+    position: relative;
+    left: 0;
+}
+
+.TextBox1 {
+    width: 230px;
+    height: 30px;
+    border: 2px solid gray;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+.TextBox2 {
+    width: 230px;
+    height: 30px;
+    border: 2px solid gray;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.checkbox {
+    margin-left: 40px;
+}
+
+.Button1 {
+    width: 100px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: #000000;
+    color: white;
+}
+
+.icon1 {
+    margin-left: 120px;
+    margin-top: 25px;
+    color: white;
+}
+
+.icon2 {
+    margin-left: 20px;
+    margin-top: 25px;
+    color: white;
+}
+
+.icon3 {
+    margin-left: 20px;
+    margin-top: 25px;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+}
+
+.TextBox9 {
+    width: 120px;
+    height: 22px;
+    border: 2px solid gray;
+    margin-top: 50px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+.TextBox10 {
+    width: 120px;
+    height: 22px;
+    border: 2px solid gray;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+.TextBox11 {
+    width: 140px;
+    height: 25px;
+    border: 2px solid gray;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.TextBox3 {
+    width: 240px;
+    height: 25px;
+    border: 2px solid #eee7e7;
+    margin-top: 20px;
+    background: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.TextBox13 {
+    width: 120px;
+    height: 22px;
+    border: 2px solid gray;
+    margin-top: 50px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+.Button5 {
+    width: 100px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 0px;
+    background-color: #000000;
+    color: white;
+}
